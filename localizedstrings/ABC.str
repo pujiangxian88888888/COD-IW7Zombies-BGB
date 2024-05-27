@@ -1,0 +1,1061 @@
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            ABC
+LANG_ENGLISH         "Perk Insured"
+
+REFERENCE            ZMUI_BGB_AFTERTASTE
+LANG_ENGLISH         "Perk Insured"
+
+REFERENCE            ZMUI_BGB_AFTERTASTE_CAPS
+LANG_ENGLISH         "AFTERTASTE"
+
+REFERENCE            ZMUI_BGB_AFTERTASTE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activates Immediately (Lasts 3 full rounds)\nKeep your perks when you are revived before bleeding out."
+
+REFERENCE            ZMUI_BGB_AFTERTASTE_FACTORY_CAPS
+LANG_ENGLISH         "AFTERTASTE"
+
+REFERENCE            ZMUI_BGB_AFTERTASTE_HINT
+LANG_ENGLISH         "Auto-activates when revived\nKeep your perks when you are revived before bleeding out."
+
+REFERENCE            ZMUI_BGB_ALCHEMICAL_ANTITHESIS
+LANG_ENGLISH         "5 Second Muscle"
+
+REFERENCE            ZMUI_BGB_ALCHEMICAL_ANTITHESIS_CAPS
+LANG_ENGLISH         "ALCHEMICAL ANTITHESIS"
+
+REFERENCE            ZMUI_BGB_ALCHEMICAL_ANTITHESIS_DESC
+LANG_ENGLISH         "^7   \nActivates Immediately (Lasts 3 full rounds)\nIncreased damage after reloading for 5 seconds."
+
+REFERENCE            ZMUI_BGB_ALCHEMICAL_ANTITHESIS_FACTORY_CAPS
+LANG_ENGLISH         "ALCHEMICAL ANTITHESIS"
+
+REFERENCE            ZMUI_BGB_ALCHEMICAL_ANTITHESIS_HINT
+LANG_ENGLISH         "Active for 3 full rounds\nIncreased damage after reloading for 5 seconds."
+
+REFERENCE            ZMUI_BGB_ALWAYS_DONE_SWIFTLY
+LANG_ENGLISH         "Mana Up"
+
+REFERENCE            ZMUI_BGB_ALWAYS_DONE_SWIFTLY_CAPS
+LANG_ENGLISH         "ALWAYS DONE SWIFTLY"
+
+REFERENCE            ZMUI_BGB_ALWAYS_DONE_SWIFTLY_DESC
+LANG_ENGLISH         "^7   \nActivates Immediately (Lasts 3 full rounds)\nRegenerate health faster."
+
+REFERENCE            ZMUI_BGB_ALWAYS_DONE_SWIFTLY_FACTORY_CAPS
+LANG_ENGLISH         "ALWAYS DONE SWIFTLY"
+
+REFERENCE            ZMUI_BGB_ALWAYS_DONE_SWIFTLY_HINT
+LANG_ENGLISH         "Active for 3 full rounds\nRegenerate health faster."
+
+REFERENCE            ZMUI_BGB_ANYWHERE_BUT_HERE
+LANG_ENGLISH         "Escape Route"
+
+REFERENCE            ZMUI_BGB_ANYWHERE_BUT_HERE_CAPS
+LANG_ENGLISH         "ANYWHERE BUT HERE!"
+
+REFERENCE            ZMUI_BGB_ANYWHERE_BUT_HERE_DESC
+LANG_ENGLISH         "   \nActivated (2x Activations)\nInstantly teleport to a random location. A concussive blast knocks away any nearby zombies, keeping you safe."
+
+REFERENCE            ZMUI_BGB_ANYWHERE_BUT_HERE_FACTORY_CAPS
+LANG_ENGLISH         "ANYWHERE BUT HERE!"
+
+REFERENCE            ZMUI_BGB_ANYWHERE_BUT_HERE_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nTeleport to a random location"
+
+REFERENCE            ZMUI_BGB_ARMAMENTAL_ACCOMPLISHMENT
+LANG_ENGLISH         "Punching Bag$"
+
+REFERENCE            ZMUI_BGB_ARMAMENTAL_ACCOMPLISHMENT_CAPS
+LANG_ENGLISH         "ARMAMENTAL ACCOMPLISHMENT"
+
+REFERENCE            ZMUI_BGB_ARMAMENTAL_ACCOMPLISHMENT_DESC
+LANG_ENGLISH         "^7   \nActivates Immediately (Lasts 5 minutes)\nEarn $100 each time you are hit."
+
+REFERENCE            ZMUI_BGB_ARMAMENTAL_ACCOMPLISHMENT_FACTORY_CAPS
+LANG_ENGLISH         "ARMAMENTAL ACCOMPLISHMENT"
+
+REFERENCE            ZMUI_BGB_ARMAMENTAL_ACCOMPLISHMENT_HINT
+LANG_ENGLISH         "Active for 5 minutes\nEarn $100 each time you are hit."
+
+REFERENCE            ZMUI_BGB_ARMS_GRACE
+LANG_ENGLISH         "Eagle Eyed"
+
+REFERENCE            ZMUI_BGB_ARMS_GRACE_CAPS
+LANG_ENGLISH         "ARMS GRACE"
+
+REFERENCE            ZMUI_BGB_ARMS_GRACE_DESC
+LANG_ENGLISH         "^7   \nActivates Immediately (Lasts 3 full rounds)\nSniper rifle hits are always critical hits."
+
+REFERENCE            ZMUI_BGB_ARMS_GRACE_FACTORY_CAPS
+LANG_ENGLISH         "ARMS GRACE"
+
+REFERENCE            ZMUI_BGB_ARMS_GRACE_HINT
+LANG_ENGLISH         "Active for 3 full rounds\nSniper rifle hits are always critical hits."
+
+REFERENCE            ZMUI_BGB_ARSENAL_ACCELERATOR
+LANG_ENGLISH         "Money Shot"
+
+REFERENCE            ZMUI_BGB_ARSENAL_ACCELERATOR_CAPS
+LANG_ENGLISH         "ARSENAL ACCELERATOR"
+
+REFERENCE            ZMUI_BGB_ARSENAL_ACCELERATOR_DESC
+LANG_ENGLISH         "^7   \nActivates Immediately (Lasts 5 minutes)\nEarn more cash for every bullet hit on zombies."
+
+REFERENCE            ZMUI_BGB_ARSENAL_ACCELERATOR_FACTORY_CAPS
+LANG_ENGLISH         "ARSENAL ACCELERATOR"
+
+REFERENCE            ZMUI_BGB_ARSENAL_ACCELERATOR_HINT
+LANG_ENGLISH         "Active for 5 minutes\nEarn more cash for every bullet hit on zombies."
+
+REFERENCE            ZMUI_BGB_BOARD_GAMES
+LANG_ENGLISH         "Board Games"
+
+REFERENCE            ZMUI_BGB_BOARD_GAMES_CAPS
+LANG_ENGLISH         "BOARD GAMES"
+
+REFERENCE            ZMUI_BGB_BOARD_GAMES_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activates Immediately (Lasts 5 full rounds)\nRepairing a board immediately repairs all boards at that window."
+
+REFERENCE            ZMUI_BGB_BOARD_GAMES_FACTORY_CAPS
+LANG_ENGLISH         "BOARD GAMES"
+
+REFERENCE            ZMUI_BGB_BOARD_GAMES_HINT
+LANG_ENGLISH         "Active for 5 full rounds\nRepairing a board immediately repairs all boards at that window"
+
+REFERENCE            ZMUI_BGB_BOARD_GAMES_LOCKED
+LANG_ENGLISH         "^1Zombies Chronicles Expansion Pack Required\n^7Activates Immediately (Lasts 5 full rounds)\nRepairing a board immediately repairs all boards at that window."
+
+REFERENCE            ZMUI_BGB_BOARD_TO_DEATH
+LANG_ENGLISH         "Board To Death"
+
+REFERENCE            ZMUI_BGB_BOARD_TO_DEATH_CAPS
+LANG_ENGLISH         "BOARD TO DEATH"
+
+REFERENCE            ZMUI_BGB_BOARD_TO_DEATH_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activates Immediately (Lasts for 5 minutes)\nRepairing a board will kill all nearby zombies."
+
+REFERENCE            ZMUI_BGB_BOARD_TO_DEATH_FACTORY_CAPS
+LANG_ENGLISH         "BOARD TO DEATH"
+
+REFERENCE            ZMUI_BGB_BOARD_TO_DEATH_HINT
+LANG_ENGLISH         "Active for 5 minutes\nRepairing a board will kill all nearby zombies"
+
+REFERENCE            ZMUI_BGB_BOARD_TO_DEATH_LOCKED
+LANG_ENGLISH         "^1Zombies Chronicles Expansion Pack Required^7Activates Immediately (Lasts for 5 minutes)\nRepairing a board will kill all nearby zombies."
+
+REFERENCE            ZMUI_BGB_BULLET_BOOST
+LANG_ENGLISH         "Bullet Boost"
+
+REFERENCE            ZMUI_BGB_BULLET_BOOST_CAPS
+LANG_ENGLISH         "BULLET BOOST"
+
+REFERENCE            ZMUI_BGB_BULLET_BOOST_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Activated (2x Activations)\nRe-Pack your current Pack-a-Punched gun (if supported)."
+
+REFERENCE            ZMUI_BGB_BULLET_BOOST_FACTORY_CAPS
+LANG_ENGLISH         "BULLET BOOST"
+
+REFERENCE            ZMUI_BGB_BULLET_BOOST_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nRe-Pack your current Pack-a-Punched gun (if supported)"
+
+REFERENCE            ZMUI_BGB_BULLET_BOOST_LOCKED
+LANG_ENGLISH         "^1Salvation DLC Pack Required\n^7Activated (2x Activations)\nGives your current gun a random Alternate Ammo Type."
+
+REFERENCE            ZMUI_BGB_BURNED_OUT
+LANG_ENGLISH         "Burned Out"
+
+REFERENCE            ZMUI_BGB_BURNED_OUT_CAPS
+LANG_ENGLISH         "BURNED OUT"
+
+REFERENCE            ZMUI_BGB_BURNED_OUT_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activates Immediately (Lasts two hits)\nThe next time you take melee damage, nearby zombies burst into fire."
+
+REFERENCE            ZMUI_BGB_BURNED_OUT_FACTORY_CAPS
+LANG_ENGLISH         "BURNED OUT"
+
+REFERENCE            ZMUI_BGB_BURNED_OUT_HINT
+LANG_ENGLISH         "Auto-activates when hit by a zombie\nBurn nearby zombies when hurt"
+
+REFERENCE            ZMUI_BGB_CACHE_BACK
+LANG_ENGLISH         "Cache Back"
+
+REFERENCE            ZMUI_BGB_CACHE_BACK_CAPS
+LANG_ENGLISH         "CACHE BACK"
+
+REFERENCE            ZMUI_BGB_CACHE_BACK_DESC
+LANG_ENGLISH         "^3RARE MEGA^7Activated (1x Activation)\nSpawns a max ammo power up."
+
+REFERENCE            ZMUI_BGB_CACHE_BACK_FACTORY_CAPS
+LANG_ENGLISH         "CACHE BACK"
+
+REFERENCE            ZMUI_BGB_CACHE_BACK_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nSpawns a max ammo power up"
+
+REFERENCE            ZMUI_BGB_COAGULANT
+LANG_ENGLISH         "Twice the Pain"
+
+REFERENCE            ZMUI_BGB_COAGULANT_CAPS
+LANG_ENGLISH         "COAGULANT"
+
+REFERENCE            ZMUI_BGB_COAGULANT_DESC
+LANG_ENGLISH         "   Activates Immediately (Lasts 10 minutes)\nDoubles bullet damage."
+
+REFERENCE            ZMUI_BGB_COAGULANT_FACTORY_CAPS
+LANG_ENGLISH         "COAGULANT"
+
+REFERENCE            ZMUI_BGB_COAGULANT_HINT
+LANG_ENGLISH         "Active for 10 minutes\nDoubles bullet damage."
+
+REFERENCE            ZMUI_BGB_CRATE_POWER
+LANG_ENGLISH         "Crate Power"
+
+REFERENCE            ZMUI_BGB_CRATE_POWER_CAPS
+LANG_ENGLISH         "CRATE POWER"
+
+REFERENCE            ZMUI_BGB_CRATE_POWER_DESC
+LANG_ENGLISH         "^3RARE MEGA^7Auto-activates next time you take a gun from the magic box\nThe next gun taken from the magic box comes Pack-a-Punched."
+
+REFERENCE            ZMUI_BGB_CRATE_POWER_FACTORY_CAPS
+LANG_ENGLISH         "CRATE POWER"
+
+REFERENCE            ZMUI_BGB_CRATE_POWER_HINT
+LANG_ENGLISH         "Auto-activates on next gun taken from magic box\nNext magic box gun taken is Pack-a-Punched"
+
+REFERENCE            ZMUI_BGB_CRATE_POWER_LOCKED
+LANG_ENGLISH         "^1Descent DLC Pack Required\n^7Auto-activates next time you take a gun from the magic box\nThe next gun taken from the magic box comes Pack-a-Punched."
+
+REFERENCE            ZMUI_BGB_CRAWL_SPACE
+LANG_ENGLISH         "Crawl Space"
+
+REFERENCE            ZMUI_BGB_CRAWL_SPACE_CAPS
+LANG_ENGLISH         "CRAWL SPACE"
+
+REFERENCE            ZMUI_BGB_CRAWL_SPACE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nAll nearby zombies become crawlers."
+
+REFERENCE            ZMUI_BGB_CRAWL_SPACE_FACTORY_CAPS
+LANG_ENGLISH         "CRAWL SPACE"
+
+REFERENCE            ZMUI_BGB_CRAWL_SPACE_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nAll nearby zombies become crawlers"
+
+REFERENCE            ZMUI_BGB_CRAWL_SPACE_LOCKED
+LANG_ENGLISH         "^1Awakening DLC Pack Required\n^7Activated (5x Activations)\nAll nearby zombies become crawlers."
+
+REFERENCE            ZMUI_BGB_DANGER_CLOSEST
+LANG_ENGLISH         "Nade Party"
+
+REFERENCE            ZMUI_BGB_DANGER_CLOSEST_CAPS
+LANG_ENGLISH         "DANGER CLOSEST"
+
+REFERENCE            ZMUI_BGB_DANGER_CLOSEST_DESC
+LANG_ENGLISH         "   Activates Immediately (Lasts 3 full rounds)\nYour grenade slot will regenerate over time."
+
+REFERENCE            ZMUI_BGB_DANGER_CLOSEST_FACTORY_CAPS
+LANG_ENGLISH         "DANGER CLOSEST"
+
+REFERENCE            ZMUI_BGB_DANGER_CLOSEST_HINT
+LANG_ENGLISH         "Active for 3 full rounds\nYour grenade slot will regenerate over time."
+
+REFERENCE            ZMUI_BGB_DEAD_OF_NUCLEAR_WINTER
+LANG_ENGLISH         "Dead of Nuclear Winter"
+
+REFERENCE            ZMUI_BGB_DEAD_OF_NUCLEAR_WINTER_CAPS
+LANG_ENGLISH         "DEAD OF NUCLEAR WINTER"
+
+REFERENCE            ZMUI_BGB_DEAD_OF_NUCLEAR_WINTER_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (2x Activations)\nSpawns a nuke power up."
+
+REFERENCE            ZMUI_BGB_DEAD_OF_NUCLEAR_WINTER_FACTORY_CAPS
+LANG_ENGLISH         "DEAD OF NUCLEAR WINTER"
+
+REFERENCE            ZMUI_BGB_DEAD_OF_NUCLEAR_WINTER_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nSpawns a Nuke power up"
+
+REFERENCE            ZMUI_BGB_DISORDERLY_COMBAT
+LANG_ENGLISH         "Disorderly Combat"
+
+REFERENCE            ZMUI_BGB_DISORDERLY_COMBAT_CAPS
+LANG_ENGLISH         "DISORDERLY COMBAT"
+
+REFERENCE            ZMUI_BGB_DISORDERLY_COMBAT_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activates Immediately (Lasts for 5 minutes)\nGives a random gun every 10 seconds."
+
+REFERENCE            ZMUI_BGB_DISORDERLY_COMBAT_FACTORY_CAPS
+LANG_ENGLISH         "DISORDERLY COMBAT"
+
+REFERENCE            ZMUI_BGB_DISORDERLY_COMBAT_HINT
+LANG_ENGLISH         "Lasts 5 minutes\nGives a random gun every 10 seconds"
+
+REFERENCE            ZMUI_BGB_DISORDERLY_COMBAT_LOCKED
+LANG_ENGLISH         "^1Descent DLC Pack Required\n^7Activates Immediately (Lasts for 5 minutes)\nGives a random gun every 10 seconds."
+
+REFERENCE            ZMUI_BGB_EPHEMERAL_ENHANCEMENT
+LANG_ENGLISH         "Ephemeral Enhancement"
+
+REFERENCE            ZMUI_BGB_EPHEMERAL_ENHANCEMENT_CAPS
+LANG_ENGLISH         "EPHEMERAL ENHANCEMENT"
+
+REFERENCE            ZMUI_BGB_EPHEMERAL_ENHANCEMENT_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (2x Activations, 60 seconds each)\nTurns the weapon in your hands into Pack-a-Punched weapon."
+
+REFERENCE            ZMUI_BGB_EPHEMERAL_ENHANCEMENT_FACTORY_CAPS
+LANG_ENGLISH         "EPHEMERAL ENHANCEMENT"
+
+REFERENCE            ZMUI_BGB_EPHEMERAL_ENHANCEMENT_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nTurns current weapon into packed weapon"
+
+REFERENCE            ZMUI_BGB_EXTRA_CREDIT
+LANG_ENGLISH         "Extra Credit"
+
+REFERENCE            ZMUI_BGB_EXTRA_CREDIT_CAPS
+LANG_ENGLISH         "EXTRA CREDIT"
+
+REFERENCE            ZMUI_BGB_EXTRA_CREDIT_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Activated (4x Activations)\nSpawns a personal 1250 point power up."
+
+REFERENCE            ZMUI_BGB_EXTRA_CREDIT_FACTORY_CAPS
+LANG_ENGLISH         "EXTRA CREDIT"
+
+REFERENCE            ZMUI_BGB_EXTRA_CREDIT_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nSpawns a personal 1250 point power up"
+
+REFERENCE            ZMUI_BGB_EXTRA_CREDIT_LOCKED
+LANG_ENGLISH         "^1Zombies Chronicles Expansion Pack Required^7Activated (4x Activations)\nSpawns a personal 1250 point power up."
+
+REFERENCE            ZMUI_BGB_EYE_CANDY
+LANG_ENGLISH         "Head Reloaded"
+
+REFERENCE            ZMUI_BGB_EYE_CANDY_CAPS
+LANG_ENGLISH         "EYE CANDY"
+
+REFERENCE            ZMUI_BGB_EYE_CANDY_DESC
+LANG_ENGLISH         " ^7Activates Immediately (Lasts 3 full rounds)\nInstantly reload held weapon after each headshot kill."
+
+REFERENCE            ZMUI_BGB_EYE_CANDY_FACTORY_CAPS
+LANG_ENGLISH         "EYE CANDY"
+
+REFERENCE            ZMUI_BGB_EYE_CANDY_HINT
+LANG_ENGLISH         "Active for 3 full rounds\nOInstantly reload held weapon after each headshot kill."
+
+REFERENCE            ZMUI_BGB_EYE_CANDY_LOCKED
+LANG_ENGLISH         "^1Zombies Chronicles Expansion Pack Required\n^7Activates Immediately (Lasts 3 full rounds)\nInstantly reload held weapon after each headshot kill."
+
+REFERENCE            ZMUI_BGB_FATAL_CONTRAPTION
+LANG_ENGLISH         "Fatal Contraption"
+
+REFERENCE            ZMUI_BGB_FATAL_CONTRAPTION_CAPS
+LANG_ENGLISH         "FATAL CONTRAPTION"
+
+REFERENCE            ZMUI_BGB_FATAL_CONTRAPTION_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (2x Activations)\nSpawn a Death Machine power up."
+
+REFERENCE            ZMUI_BGB_FATAL_CONTRAPTION_FACTORY_CAPS
+LANG_ENGLISH         "FATAL CONTRAPTION"
+
+REFERENCE            ZMUI_BGB_FATAL_CONTRAPTION_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nSpawns a Death Machine power up"
+
+REFERENCE            ZMUI_BGB_FATAL_CONTRAPTION_LOCKED
+LANG_ENGLISH         "^1Awakening DLC Pack Required\n^7Activated (2x Activations)\nSpawn a Death Machine power up."
+
+REFERENCE            ZMUI_BGB_FEAR_IN_HEADLIGHTS
+LANG_ENGLISH         "Fear in Headlights"
+
+REFERENCE            ZMUI_BGB_FEAR_IN_HEADLIGHTS_CAPS
+LANG_ENGLISH         "FEAR IN HEADLIGHTS"
+
+REFERENCE            ZMUI_BGB_FEAR_IN_HEADLIGHTS_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Activated (1x Activation, 2 minutes)\nZombies seen by players will not move."
+
+REFERENCE            ZMUI_BGB_FEAR_IN_HEADLIGHTS_FACTORY_CAPS
+LANG_ENGLISH         "FEAR IN HEADLIGHTS"
+
+REFERENCE            ZMUI_BGB_FEAR_IN_HEADLIGHTS_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nZombies seen by players will not move"
+
+REFERENCE            ZMUI_BGB_FEAR_IN_HEADLIGHTS_LOCKED
+LANG_ENGLISH         "^1Eclipse DLC Pack Required\n^7Activated (1x Activation, 2 minutes)\nZombies seen by players will not move."
+
+REFERENCE            ZMUI_BGB_FIRING_ON_ALL_CYLINDERS
+LANG_ENGLISH         "Stimulus"
+
+REFERENCE            ZMUI_BGB_FIRING_ON_ALL_CYLINDERS_CAPS
+LANG_ENGLISH         "FIRING ON ALL CYLINDERS"
+
+REFERENCE            ZMUI_BGB_FIRING_ON_ALL_CYLINDERS_DESC
+LANG_ENGLISH         "   \nActivates Immediately (Lasts 3 full rounds)\nShooting a zombie releases a healing area of effect for allies."
+
+REFERENCE            ZMUI_BGB_FIRING_ON_ALL_CYLINDERS_FACTORY_CAPS
+LANG_ENGLISH         "FIRING ON ALL CYLINDERS"
+
+REFERENCE            ZMUI_BGB_FIRING_ON_ALL_CYLINDERS_HINT
+LANG_ENGLISH         "Active for 3 full rounds\nShooting a zombie releases a healing area of effect for allies."
+
+REFERENCE            ZMUI_BGB_FLAVOR_HEXED
+LANG_ENGLISH         "Flavor Hexed"
+
+REFERENCE            ZMUI_BGB_FLAVOR_HEXED_CAPS
+LANG_ENGLISH         "FLAVOR HEXED"
+
+REFERENCE            ZMUI_BGB_FLAVOR_HEXED_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activates Immediately (2x Activations)\nTransforms into a random Mega GobbleGum not in your Pack."
+
+REFERENCE            ZMUI_BGB_FLAVOR_HEXED_FACTORY_CAPS
+LANG_ENGLISH         "FLAVOR HEXED"
+
+REFERENCE            ZMUI_BGB_FLAVOR_HEXED_HINT
+LANG_ENGLISH         "Auto-activates\nTransforms into a random Mega GobbleGum not in your Pack"
+
+REFERENCE            ZMUI_BGB_FLAVOR_HEXED_LOCKED
+LANG_ENGLISH         "^1Zombies Chronicles Expansion Pack Required\n^7Activates Immediately\nTransforms into a random Mega GobbleGum that is not in your Pack. After that GobbleGum is used up, Flavor Hexed will transform once more."
+
+REFERENCE            ZMUI_BGB_HEAD_DRAMA
+LANG_ENGLISH         "Head Drama"
+
+REFERENCE            ZMUI_BGB_HEAD_DRAMA_CAPS
+LANG_ENGLISH         "HEAD DRAMA"
+
+REFERENCE            ZMUI_BGB_HEAD_DRAMA_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately (Lasts for the remainder of the round)\nAny bullet which hits a zombie will damage its head."
+
+REFERENCE            ZMUI_BGB_HEAD_DRAMA_FACTORY_CAPS
+LANG_ENGLISH         "HEAD DRAMA"
+
+REFERENCE            ZMUI_BGB_HEAD_DRAMA_HINT
+LANG_ENGLISH         "Active for remainder of the round\nAny bullet which hits a zombie damages its head"
+
+REFERENCE            ZMUI_BGB_HEAD_DRAMA_LOCKED
+LANG_ENGLISH         "^1Awakening DLC Pack Required\n^7Activates Immediately (Lasts for the remainder of the round)\nAny bullet which hits a zombie will damage its head."
+
+REFERENCE            ZMUI_BGB_IDLE_EYES
+LANG_ENGLISH         "Idle Eyes"
+
+REFERENCE            ZMUI_BGB_IDLE_EYES_CAPS
+LANG_ENGLISH         "IDLE EYES"
+
+REFERENCE            ZMUI_BGB_IDLE_EYES_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (3x Activations, 30 seconds each)\nAll zombies will ignore all players."
+
+REFERENCE            ZMUI_BGB_IDLE_EYES_FACTORY_CAPS
+LANG_ENGLISH         "IDLE EYES"
+
+REFERENCE            ZMUI_BGB_IDLE_EYES_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nAll zombies will ignore all players"
+
+REFERENCE            ZMUI_BGB_IDLE_EYES_LOCKED
+LANG_ENGLISH         "^1Zombies Chronicles Expansion Pack Required\n^7Activated (3x Activations, 30 seconds each)\nAll zombies will ignore all players."
+
+REFERENCE            ZMUI_BGB_IMMOLATION_LIQUIDATION
+LANG_ENGLISH         "Immolation Liquidation"
+
+REFERENCE            ZMUI_BGB_IMMOLATION_LIQUIDATION_CAPS
+LANG_ENGLISH         "IMMOLATION LIQUIDATION"
+
+REFERENCE            ZMUI_BGB_IMMOLATION_LIQUIDATION_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (3x Activations)\nSpawns a fire sale power up."
+
+REFERENCE            ZMUI_BGB_IMMOLATION_LIQUIDATION_FACTORY_CAPS
+LANG_ENGLISH         "IMMOLATION LIQUIDATION"
+
+REFERENCE            ZMUI_BGB_IMMOLATION_LIQUIDATION_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nSpawns a fire sale power up"
+
+REFERENCE            ZMUI_BGB_IMPATIENT
+LANG_ENGLISH         "Scoped Dollars"
+
+REFERENCE            ZMUI_BGB_IMPATIENT_CAPS
+LANG_ENGLISH         "IMPATIENT"
+
+REFERENCE            ZMUI_BGB_IMPATIENT_DESC
+LANG_ENGLISH         " ^7   \nActivates Immediately (Lasts 2 minutes)\n$300 bonus for each kill with a sniper."
+
+REFERENCE            ZMUI_BGB_IMPATIENT_FACTORY_CAPS
+LANG_ENGLISH         "IMPATIENT"
+
+REFERENCE            ZMUI_BGB_IMPATIENT_HINT
+LANG_ENGLISH         "  Active for 2 minutes\n$300 bonus for each kill with a sniper."
+
+REFERENCE            ZMUI_BGB_IM_FEELIN_LUCKY
+LANG_ENGLISH         "I'm Feelin' Lucky"
+
+REFERENCE            ZMUI_BGB_IM_FEELIN_LUCKY_CAPS
+LANG_ENGLISH         "I'M FEELIN' LUCKY"
+
+REFERENCE            ZMUI_BGB_IM_FEELIN_LUCKY_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (2x Activations)\nSpawn a random power up."
+
+REFERENCE            ZMUI_BGB_IM_FEELIN_LUCKY_FACTORY_CAPS
+LANG_ENGLISH         "I'M FEELIN' LUCKY"
+
+REFERENCE            ZMUI_BGB_IM_FEELIN_LUCKY_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nSpawns a random power up"
+
+REFERENCE            ZMUI_BGB_IN_PLAIN_SIGHT
+LANG_ENGLISH         "Socialist"
+
+REFERENCE            ZMUI_BGB_IN_PLAIN_SIGHT_CAPS
+LANG_ENGLISH         "IN PLAIN SIGHT"
+
+REFERENCE            ZMUI_BGB_IN_PLAIN_SIGHT_DESC
+LANG_ENGLISH         "   \nActivated (2x Activations)\nYour cash is evenly distributed amongst all players."
+
+REFERENCE            ZMUI_BGB_IN_PLAIN_SIGHT_FACTORY_CAPS
+LANG_ENGLISH         "IN PLAIN SIGHT"
+
+REFERENCE            ZMUI_BGB_IN_PLAIN_SIGHT_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nYour cash is evenly distributed amongst all players."
+
+REFERENCE            ZMUI_BGB_KILLING_TIME
+LANG_ENGLISH         "Killing Time"
+
+REFERENCE            ZMUI_BGB_KILLING_TIME_CAPS
+LANG_ENGLISH         "KILLING TIME"
+
+REFERENCE            ZMUI_BGB_KILLING_TIME_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activated (1x Activation)\nAll zombies freeze in place for 20 seconds. If they are shot, they will be annihilated when the time is up."
+
+REFERENCE            ZMUI_BGB_KILLING_TIME_FACTORY_CAPS
+LANG_ENGLISH         "KILLING TIME"
+
+REFERENCE            ZMUI_BGB_KILLING_TIME_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nFreeze zombies in place"
+
+REFERENCE            ZMUI_BGB_KILL_JOY
+LANG_ENGLISH         "Kill Joy"
+
+REFERENCE            ZMUI_BGB_KILL_JOY_CAPS
+LANG_ENGLISH         "KILL JOY"
+
+REFERENCE            ZMUI_BGB_KILL_JOY_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Activated (2x Activations)\nSpawns an Instakill power up."
+
+REFERENCE            ZMUI_BGB_KILL_JOY_FACTORY_CAPS
+LANG_ENGLISH         "KILL JOY"
+
+REFERENCE            ZMUI_BGB_KILL_JOY_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nSpawn an Instakill power up"
+
+REFERENCE            ZMUI_BGB_LICENSED_CONTRACTOR
+LANG_ENGLISH         "Licensed Contractor"
+
+REFERENCE            ZMUI_BGB_LICENSED_CONTRACTOR_CAPS
+LANG_ENGLISH         "LICENSED CONTRACTOR"
+
+REFERENCE            ZMUI_BGB_LICENSED_CONTRACTOR_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (3x Activations)\nSpawns a Carpenter power up."
+
+REFERENCE            ZMUI_BGB_LICENSED_CONTRACTOR_FACTORY_CAPS
+LANG_ENGLISH         "LICENSED CONTRACTOR"
+
+REFERENCE            ZMUI_BGB_LICENSED_CONTRACTOR_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nSpawns a Carpenter power up"
+
+REFERENCE            ZMUI_BGB_LUCKY_CRIT
+LANG_ENGLISH         "Second Wind"
+
+REFERENCE            ZMUI_BGB_LUCKY_CRIT_CAPS
+LANG_ENGLISH         "LUCKY CRIT"
+
+REFERENCE            ZMUI_BGB_LUCKY_CRIT_DESC
+LANG_ENGLISH         "   \nActivates Immediately (Lasts 3 full round)\nKill all nearby zombies when you are near death."
+
+REFERENCE            ZMUI_BGB_LUCKY_CRIT_FACTORY_CAPS
+LANG_ENGLISH         "LUCKY CRIT"
+
+REFERENCE            ZMUI_BGB_LUCKY_CRIT_HINT
+LANG_ENGLISH         "Active for 3 full round\nKill all nearby zombies when you are near death."
+
+REFERENCE            ZMUI_BGB_MIND_BLOWN
+LANG_ENGLISH         "Mind Blown"
+
+REFERENCE            ZMUI_BGB_MIND_BLOWN_CAPS
+LANG_ENGLISH         "MIND BLOWN"
+
+REFERENCE            ZMUI_BGB_MIND_BLOWN_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (3x Activations)\nGib the heads of all zombies you can see, killing them."
+
+REFERENCE            ZMUI_BGB_MIND_BLOWN_FACTORY_CAPS
+LANG_ENGLISH         "MIND BLOWN"
+
+REFERENCE            ZMUI_BGB_MIND_BLOWN_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nGib the heads of all zombies you can see, killing them"
+
+REFERENCE            ZMUI_BGB_MIND_BLOWN_LOCKED
+LANG_ENGLISH         "^1Salvation DLC Pack Required\n^7Activated (3x Activations)\nGib the heads of all zombies you can see, killing them."
+
+REFERENCE            ZMUI_BGB_NEAR_DEATH_EXPERIENCE
+LANG_ENGLISH         "Near Death Experience"
+
+REFERENCE            ZMUI_BGB_NEAR_DEATH_EXPERIENCE_CAPS
+LANG_ENGLISH         "NEAR DEATH EXPERIENCE"
+
+REFERENCE            ZMUI_BGB_NEAR_DEATH_EXPERIENCE_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately (Lasts 3 full rounds)\nRevive, or be revived, simply by being near other players. Revived players keep all of their perks."
+
+REFERENCE            ZMUI_BGB_NEAR_DEATH_EXPERIENCE_FACTORY_CAPS
+LANG_ENGLISH         "NEAR DEATH EXPERIENCE"
+
+REFERENCE            ZMUI_BGB_NEAR_DEATH_EXPERIENCE_HINT
+LANG_ENGLISH         "Active for 3 full rounds\nRevive, or be revived, simply by being near other players, keeping all perks"
+
+REFERENCE            ZMUI_BGB_NEAR_DEATH_EXPERIENCE_LOCKED
+LANG_ENGLISH         "^1Salvation DLC Pack Required^7\nActivates Immediately (Lasts for the remainder of the round)\nAutomatically revives nearby players."
+
+REFERENCE            ZMUI_BGB_NEWTONIAN_NEGATION
+LANG_ENGLISH         "Best for Last"
+
+REFERENCE            ZMUI_BGB_NEWTONIAN_NEGATION_CAPS
+LANG_ENGLISH         "NEWTONIAN NEGATION"
+
+REFERENCE            ZMUI_BGB_NEWTONIAN_NEGATION_DESC
+LANG_ENGLISH         "^7Activates Immediately (Lasts 10 minutes)\nThe last 4 bullets in your clip have increased damage."
+
+REFERENCE            ZMUI_BGB_NEWTONIAN_NEGATION_FACTORY_CAPS
+LANG_ENGLISH         "NEWTONIAN NEGATION"
+
+REFERENCE            ZMUI_BGB_NEWTONIAN_NEGATION_HINT
+LANG_ENGLISH         "Lasts 10 minutes\nThe last 4 bullets in your clip have increased damage."
+
+REFERENCE            ZMUI_BGB_NEWTONIAN_NEGATION_LOCKED
+LANG_ENGLISH         "^1Salvation DLC Pack Required\n^7Activates Immediately (Lasts 10 minutes)\nThe last 4 bullets in your clip have increased damage."
+
+REFERENCE            ZMUI_BGB_NOW_YOU_SEE_ME
+LANG_ENGLISH         "Explosive Touch"
+
+REFERENCE            ZMUI_BGB_NOW_YOU_SEE_ME_CAPS
+LANG_ENGLISH         "NOW YOU SEE ME"
+
+REFERENCE            ZMUI_BGB_NOW_YOU_SEE_ME_DESC
+LANG_ENGLISH         "   \nActivated (3x Activations, 3 Times)\nZombies in direct contact with the player explode."
+
+REFERENCE            ZMUI_BGB_NOW_YOU_SEE_ME_FACTORY_CAPS
+LANG_ENGLISH         "NOW YOU SEE ME"
+
+REFERENCE            ZMUI_BGB_NOW_YOU_SEE_ME_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nZombies in direct contact with the player explode."
+
+REFERENCE            ZMUI_BGB_ON_THE_HOUSE
+LANG_ENGLISH         "On the House"
+
+REFERENCE            ZMUI_BGB_ON_THE_HOUSE_CAPS
+LANG_ENGLISH         "ON THE HOUSE"
+
+REFERENCE            ZMUI_BGB_ON_THE_HOUSE_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Activated (1x Activation)\nSpawns a free perk power up."
+
+REFERENCE            ZMUI_BGB_ON_THE_HOUSE_FACTORY_CAPS
+LANG_ENGLISH         "ON THE HOUSE"
+
+REFERENCE            ZMUI_BGB_ON_THE_HOUSE_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nSpawns a free perk power up"
+
+REFERENCE            ZMUI_BGB_PERKAHOLIC
+LANG_ENGLISH         "Perkaholic"
+
+REFERENCE            ZMUI_BGB_PERKAHOLIC_CAPS
+LANG_ENGLISH         "PERKAHOLIC"
+
+REFERENCE            ZMUI_BGB_PERKAHOLIC_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately\nGives you all perks in the map."
+
+REFERENCE            ZMUI_BGB_PERKAHOLIC_FACTORY_CAPS
+LANG_ENGLISH         "PERKAHOLIC"
+
+REFERENCE            ZMUI_BGB_PERKAHOLIC_HINT
+LANG_ENGLISH         "All perks awarded!"
+
+REFERENCE            ZMUI_BGB_PHOENIX_UP
+LANG_ENGLISH         "Phoenix Up"
+
+REFERENCE            ZMUI_BGB_PHOENIX_UP_CAPS
+LANG_ENGLISH         "PHOENIX UP"
+
+REFERENCE            ZMUI_BGB_PHOENIX_UP_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (1x Activation)\nRevives all teammates. Teammates keep all of their perks."
+
+REFERENCE            ZMUI_BGB_PHOENIX_UP_FACTORY_CAPS
+LANG_ENGLISH         "PHOENIX UP"
+
+REFERENCE            ZMUI_BGB_PHOENIX_UP_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nRevive all Teammates with their perks"
+
+REFERENCE            ZMUI_BGB_POP_SHOCKS
+LANG_ENGLISH         "Pop Shocks"
+
+REFERENCE            ZMUI_BGB_POP_SHOCKS_CAPS
+LANG_ENGLISH         "POP SHOCKS"
+
+REFERENCE            ZMUI_BGB_POP_SHOCKS_DESC
+LANG_ENGLISH         "^2MEGA\n^7Auto-activates when melee attacking zombies (5x Activations)\nMelee attacks trigger an electrostatic discharge, electrocuting nearby zombies."
+
+REFERENCE            ZMUI_BGB_POP_SHOCKS_FACTORY_CAPS
+LANG_ENGLISH         "POP SHOCKS"
+
+REFERENCE            ZMUI_BGB_POP_SHOCKS_HINT
+LANG_ENGLISH         "Auto-activates when melee attacking\nElectrocutes nearby zombies"
+
+REFERENCE            ZMUI_BGB_POWER_VACUUM
+LANG_ENGLISH         "Power Vacuum"
+
+REFERENCE            ZMUI_BGB_POWER_VACUUM_CAPS
+LANG_ENGLISH         "POWER VACUUM"
+
+REFERENCE            ZMUI_BGB_POWER_VACUUM_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately (Lasts for 4 full rounds)\nMore power ups can drop each round."
+
+REFERENCE            ZMUI_BGB_POWER_VACUUM_FACTORY_CAPS
+LANG_ENGLISH         "POWER VACUUM"
+
+REFERENCE            ZMUI_BGB_POWER_VACUUM_HINT
+LANG_ENGLISH         "Active for 4 full rounds\nMore power ups can drop each round"
+
+REFERENCE            ZMUI_BGB_POWER_VACUUM_LOCKED
+LANG_ENGLISH         "^1Zombies Chronicles Expansion Pack Required\n^7Activates Immediately (Lasts for 4 full rounds)\nPower ups drop more often."
+
+REFERENCE            ZMUI_BGB_PROFIT_SHARING
+LANG_ENGLISH         "Profit Sharing"
+
+REFERENCE            ZMUI_BGB_PROFIT_SHARING_CAPS
+LANG_ENGLISH         "PROFIT SHARING"
+
+REFERENCE            ZMUI_BGB_PROFIT_SHARING_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately (Lasts 10 minutes)\nPoints you earn are also received by nearby players, and vice versa."
+
+REFERENCE            ZMUI_BGB_PROFIT_SHARING_FACTORY_CAPS
+LANG_ENGLISH         "PROFIT SHARING"
+
+REFERENCE            ZMUI_BGB_PROFIT_SHARING_HINT
+LANG_ENGLISH         "Lasts 10 minutes \nPoints you earn are also received by nearby players, and vice versa"
+
+REFERENCE            ZMUI_BGB_PROFIT_SHARING_LOCKED
+LANG_ENGLISH         "^1Salvation DLC Pack Required\n^7Activates Immediately (Lasts 5 minutes)\nAll points received by a player near you are also awarded to nearby players."
+
+REFERENCE            ZMUI_BGB_PROJECTILE_VOMITING
+LANG_ENGLISH         "Ego Trip"
+
+REFERENCE            ZMUI_BGB_PROJECTILE_VOMITING_CAPS
+LANG_ENGLISH         "PROJECTILE VOMITING"
+
+REFERENCE            ZMUI_BGB_PROJECTILE_VOMITING_DESC
+LANG_ENGLISH         "^7Activates Immediately (Lasts 5 full rounds)\nIncreases the damage of headshots."
+
+REFERENCE            ZMUI_BGB_PROJECTILE_VOMITING_FACTORY_CAPS
+LANG_ENGLISH         "PROJECTILE VOMITING"
+
+REFERENCE            ZMUI_BGB_PROJECTILE_VOMITING_HINT
+LANG_ENGLISH         "Active for 5 full rounds\nIncreases the damage of headshots."
+
+REFERENCE            ZMUI_BGB_PROJECTILE_VOMITING_LOCKED
+LANG_ENGLISH         "^1Descent DLC Pack Required\n^7Activates Immediately (Lasts 5 full rounds)\nIncreases the damage of headshots."
+
+REFERENCE            ZMUI_BGB_PURCHASE_DLC
+LANG_ENGLISH         "Purchase DLC&&1 to be able to receive this\nGobblegum from Dr. Monty's Factory"
+
+REFERENCE            ZMUI_BGB_PURCHASE_DLC_CLASSIC
+LANG_ENGLISH         "Purchase DLC&&1 to be able to equip this Gobblegum"
+
+REFERENCE            ZMUI_BGB_PURCHASE_ZC
+LANG_ENGLISH         "Purchase Zombies Chronicles to be able to equip this Gobblegum"
+
+REFERENCE            ZMUI_BGB_REIGN_DROPS
+LANG_ENGLISH         "Reign Drops"
+
+REFERENCE            ZMUI_BGB_REIGN_DROPS_CAPS
+LANG_ENGLISH         "REIGN DROPS"
+
+REFERENCE            ZMUI_BGB_REIGN_DROPS_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activated (2x Activations)\nSpawns one of each of the nine core power ups."
+
+REFERENCE            ZMUI_BGB_REIGN_DROPS_FACTORY_CAPS
+LANG_ENGLISH         "REIGN DROPS"
+
+REFERENCE            ZMUI_BGB_REIGN_DROPS_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nSpawns one of each of the nine core power ups"
+
+REFERENCE            ZMUI_BGB_REIGN_DROPS_LOCKED
+LANG_ENGLISH         "^1Zombies Chronicles Expansion Pack Required\n^7Activated (2x Activations)\nSpawns one of each of the nine core power ups."
+
+REFERENCE            ZMUI_BGB_RESPIN_CYCLE
+LANG_ENGLISH         "Respin Cycle"
+
+REFERENCE            ZMUI_BGB_RESPIN_CYCLE_CAPS
+LANG_ENGLISH         "RESPIN CYCLE"
+
+REFERENCE            ZMUI_BGB_RESPIN_CYCLE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (2x Activations)\nRe-spins the weapons in a magic box after it has been activated."
+
+REFERENCE            ZMUI_BGB_RESPIN_CYCLE_FACTORY_CAPS
+LANG_ENGLISH         "RESPIN CYCLE"
+
+REFERENCE            ZMUI_BGB_RESPIN_CYCLE_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nRe-spins the weapons in a magic box"
+
+REFERENCE            ZMUI_BGB_ROUND_ROBBIN
+LANG_ENGLISH         "Round Robbin'"
+
+REFERENCE            ZMUI_BGB_ROUND_ROBBIN_CAPS
+LANG_ENGLISH         "ROUND ROBBIN'"
+
+REFERENCE            ZMUI_BGB_ROUND_ROBBIN_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activated (1x Activation)\nEnds the current round. All players gain 1600 points."
+
+REFERENCE            ZMUI_BGB_ROUND_ROBBIN_FACTORY_CAPS
+LANG_ENGLISH         "ROUND ROBBIN'"
+
+REFERENCE            ZMUI_BGB_ROUND_ROBBIN_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nEnds the current round. All players gain 1600 points"
+
+REFERENCE            ZMUI_BGB_ROUND_ROBBIN_LOCKED
+LANG_ENGLISH         "^1Salvation DLC Pack Required\n^7Activated (1x Activation)\nEnds the current round."
+
+REFERENCE            ZMUI_BGB_SECRET_SHOPPER
+LANG_ENGLISH         "Secret Shopper"
+
+REFERENCE            ZMUI_BGB_SECRET_SHOPPER_CAPS
+LANG_ENGLISH         "SECRET SHOPPER"
+
+REFERENCE            ZMUI_BGB_SECRET_SHOPPER_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately (Lasts 10 minutes)\nAny gun wall-buy can be used to buy ammo for any gun."
+
+REFERENCE            ZMUI_BGB_SECRET_SHOPPER_FACTORY_CAPS
+LANG_ENGLISH         "SECRET SHOPPER"
+
+REFERENCE            ZMUI_BGB_SECRET_SHOPPER_HINT
+LANG_ENGLISH         "Lasts 10 minutes\nAny gun wall-buy can be used to buy ammo for any gun"
+
+REFERENCE            ZMUI_BGB_SECRET_SHOPPER_LOCKED
+LANG_ENGLISH         "^1Eclipse DLC Pack Required\n^7Activates Immediately (Lasts 10 minutes)\nAny gun wall-buy can be used to buy ammo for any gun."
+
+REFERENCE            ZMUI_BGB_SELF_MEDICATION
+LANG_ENGLISH         "Self Medication"
+
+REFERENCE            ZMUI_BGB_SELF_MEDICATION_CAPS
+LANG_ENGLISH         "SELF MEDICATION"
+
+REFERENCE            ZMUI_BGB_SELF_MEDICATION_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Auto-activates by getting a kill in last stand (3x Activations)\nAuto revive yourself. Keep all of your perks."
+
+REFERENCE            ZMUI_BGB_SELF_MEDICATION_FACTORY_CAPS
+LANG_ENGLISH         "SELF MEDICATION"
+
+REFERENCE            ZMUI_BGB_SELF_MEDICATION_HINT
+LANG_ENGLISH         "Auto-activates with a kill in last stand\nAuto revive. Keep all of your perks."
+
+REFERENCE            ZMUI_BGB_SELF_MEDICATION_LOCKED
+LANG_ENGLISH         "^1Salvation DLC Pack Required\n^7Auto-activates by getting 4 kills in last stand\nAuto revive yourself."
+
+REFERENCE            ZMUI_BGB_SHOPPING_FREE
+LANG_ENGLISH         "Shopping Free"
+
+REFERENCE            ZMUI_BGB_SHOPPING_FREE_CAPS
+LANG_ENGLISH         "SHOPPING FREE"
+
+REFERENCE            ZMUI_BGB_SHOPPING_FREE_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately (Lasts 1 minute)\nAll purchases are free."
+
+REFERENCE            ZMUI_BGB_SHOPPING_FREE_FACTORY_CAPS
+LANG_ENGLISH         "SHOPPING FREE"
+
+REFERENCE            ZMUI_BGB_SHOPPING_FREE_HINT
+LANG_ENGLISH         "Lasts 1 minute\nAll purchases are free"
+
+REFERENCE            ZMUI_BGB_SHOPPING_FREE_LOCKED
+LANG_ENGLISH         "^1Descent DLC Pack Required\n^7Activates Immediately (Lasts 1 minute)\nAll purchases are free."
+
+REFERENCE            ZMUI_BGB_SLAUGHTER_SLIDE
+LANG_ENGLISH         "Slaughter Slide"
+
+REFERENCE            ZMUI_BGB_SLAUGHTER_SLIDE_CAPS
+LANG_ENGLISH         "SLAUGHTER SLIDE"
+
+REFERENCE            ZMUI_BGB_SLAUGHTER_SLIDE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Auto-activates when sliding (6x Activations)\nCreate 2 lethal explosions by sliding."
+
+REFERENCE            ZMUI_BGB_SLAUGHTER_SLIDE_FACTORY_CAPS
+LANG_ENGLISH         "SLAUGHTER SLIDE"
+
+REFERENCE            ZMUI_BGB_SLAUGHTER_SLIDE_HINT
+LANG_ENGLISH         "Auto-activates when sliding\nCreate 2 lethal explosions by sliding"
+
+REFERENCE            ZMUI_BGB_SLAUGHTER_SLIDE_LOCKED
+LANG_ENGLISH         "^1Descent DLC Pack Required\n^7Auto-activates when sliding (6x Activations)\nCreate 2 lethal explosions by sliding."
+
+REFERENCE            ZMUI_BGB_SODA_FOUNTAIN
+LANG_ENGLISH         "Soda Fountain"
+
+REFERENCE            ZMUI_BGB_SODA_FOUNTAIN_CAPS
+LANG_ENGLISH         "SODA FOUNTAIN"
+
+REFERENCE            ZMUI_BGB_SODA_FOUNTAIN_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Auto-activates when you buy a perk (5x Activations)\nCan buy an extra perk. Gives you a free perk after you buy one."
+
+REFERENCE            ZMUI_BGB_SODA_FOUNTAIN_FACTORY_CAPS
+LANG_ENGLISH         "SODA FOUNTAIN"
+
+REFERENCE            ZMUI_BGB_SODA_FOUNTAIN_HINT
+LANG_ENGLISH         "Auto-activates\nCan buy an extra perk. Gives you a free perk after you buy one"
+
+REFERENCE            ZMUI_BGB_SODA_FOUNTAIN_LOCKED
+LANG_ENGLISH         "^1Zombies Chronicles Expansion Pack Required\n^7Auto-activates when you buy a perk (5x Activations)\nCan buy an extra perk. Gives you a free perk after you buy one."
+
+REFERENCE            ZMUI_BGB_STOCK_OPTION
+LANG_ENGLISH         "Get Head"
+
+REFERENCE            ZMUI_BGB_STOCK_OPTION_CAPS
+LANG_ENGLISH         "Get Head"
+
+REFERENCE            ZMUI_BGB_STOCK_OPTION_DESC
+LANG_ENGLISH         "   \nActivates Immediately (Lasts 5 minutes)\nHeadshots instantly kill zombies."
+
+REFERENCE            ZMUI_BGB_STOCK_OPTION_FACTORY_CAPS
+LANG_ENGLISH         "STOCK OPTION"
+
+REFERENCE            ZMUI_BGB_STOCK_OPTION_HINT
+LANG_ENGLISH         "Lasts 5 minutes\nHeadshots instantly kill zombies."
+
+REFERENCE            ZMUI_BGB_SWORD_FLAY
+LANG_ENGLISH         "Pimp Slap"
+
+REFERENCE            ZMUI_BGB_SWORD_FLAY_CAPS
+LANG_ENGLISH         "SWORD FLAY"
+
+REFERENCE            ZMUI_BGB_SWORD_FLAY_DESC
+LANG_ENGLISH         "   \nActivates Immediately (Lasts 5 minutes)\nMelee damage will instantly kill the enemy."
+
+REFERENCE            ZMUI_BGB_SWORD_FLAY_FACTORY_CAPS
+LANG_ENGLISH         "SWORD FLAY"
+
+REFERENCE            ZMUI_BGB_SWORD_FLAY_HINT
+LANG_ENGLISH         "Lasts 5 minutes\nMelee damage will instantly kill the enemy."
+
+REFERENCE            ZMUI_BGB_TEMPORAL_GIFT
+LANG_ENGLISH         "Temporal Gift"
+
+REFERENCE            ZMUI_BGB_TEMPORAL_GIFT_CAPS
+LANG_ENGLISH         "TEMPORAL GIFT"
+
+REFERENCE            ZMUI_BGB_TEMPORAL_GIFT_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Activates Immediately (Lasts 1 full round)\nPower ups last longer."
+
+REFERENCE            ZMUI_BGB_TEMPORAL_GIFT_FACTORY_CAPS
+LANG_ENGLISH         "TEMPORAL GIFT"
+
+REFERENCE            ZMUI_BGB_TEMPORAL_GIFT_HINT
+LANG_ENGLISH         "Active for 1 full round\nPower ups last longer"
+
+REFERENCE            ZMUI_BGB_TEMPORAL_GIFT_LOCKED
+LANG_ENGLISH         "^1Eclipse DLC Pack Required\n^7Activates Immediately (Lasts 1 full round)\nPower ups last longer."
+
+REFERENCE            ZMUI_BGB_TOKENS_GAINED_REWARD
+LANG_ENGLISH         "+&&1 Liquid Divinium"
+
+REFERENCE            ZMUI_BGB_TOKEN_AWARD_NOTIFICATION_DESC
+LANG_ENGLISH         "Use in Dr. Monty's Factory"
+
+REFERENCE            ZMUI_BGB_TOKEN_AWARD_NOTIFICATION_TITLE
+LANG_ENGLISH         "Liquid Divinium"
+
+REFERENCE            ZMUI_BGB_TONE_DEATH
+LANG_ENGLISH         "Purify"
+
+REFERENCE            ZMUI_BGB_TONE_DEATH_CAPS
+LANG_ENGLISH         "TONE DEATH"
+
+REFERENCE            ZMUI_BGB_TONE_DEATH_DESC
+LANG_ENGLISH         "\n^7^7Activates Immediately (Lasts 3 full round)\nHeals all players while dealing damage to nearby zombies."
+
+REFERENCE            ZMUI_BGB_TONE_DEATH_FACTORY_CAPS
+LANG_ENGLISH         "TONE DEATH"
+
+REFERENCE            ZMUI_BGB_TONE_DEATH_HINT
+LANG_ENGLISH         "Active for 3 full round\nHeals all players while dealing damage to nearby zombies."
+
+REFERENCE            ZMUI_BGB_TONE_DEATH_LOCKED
+LANG_ENGLISH         "^1Zombies Chronicles Expansion Pack Required\n^7Auto-activates when killing a zombie (25x Activations)\nSilly sounds play when zombies are killed."
+
+REFERENCE            ZMUI_BGB_UNBEARABLE
+LANG_ENGLISH         "Unbearable"
+
+REFERENCE            ZMUI_BGB_UNBEARABLE_CAPS
+LANG_ENGLISH         "UNBEARABLE"
+
+REFERENCE            ZMUI_BGB_UNBEARABLE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Auto-activates when a teddy bear appears in the magic box.\nMagic box re-spins automatically. Magic box will not move for several uses."
+
+REFERENCE            ZMUI_BGB_UNBEARABLE_FACTORY_CAPS
+LANG_ENGLISH         "UNBEARABLE"
+
+REFERENCE            ZMUI_BGB_UNBEARABLE_HINT
+LANG_ENGLISH         "Auto-activates when a teddy bear appears in the magic box\nMagic box re-spins automatically"
+
+REFERENCE            ZMUI_BGB_UNBEARABLE_LOCKED
+LANG_ENGLISH         "^1Eclipse DLC Pack Required\n^7Auto-activates when a teddy bear appears in the magic box.\nMagic box re-spins automatically. Magic box will not move for several uses."
+
+REFERENCE            ZMUI_BGB_UNDEAD_MAN_WALKING
+LANG_ENGLISH         "Undead Man Walking"
+
+REFERENCE            ZMUI_BGB_UNDEAD_MAN_WALKING_CAPS
+LANG_ENGLISH         "UNDEAD MAN WALKING"
+
+REFERENCE            ZMUI_BGB_UNDEAD_MAN_WALKING_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Activates Immediately (Lasts 4 minutes)\nSlow down all zombies to shambling speed."
+
+REFERENCE            ZMUI_BGB_UNDEAD_MAN_WALKING_FACTORY_CAPS
+LANG_ENGLISH         "UNDEAD MAN WALKING"
+
+REFERENCE            ZMUI_BGB_UNDEAD_MAN_WALKING_HINT
+LANG_ENGLISH         "Lasts 4 minutes\nSlow all zombies to shambling speed"
+
+REFERENCE            ZMUI_BGB_UNDEAD_MAN_WALKING_LOCKED
+LANG_ENGLISH         "^1Awakening DLC Pack Required\n^7Activates Immediately (Lasts 4 minutes)\nSlow down all zombies to shambling speed."
+
+REFERENCE            ZMUI_BGB_UNQUENCHABLE
+LANG_ENGLISH         "Unquenchable"
+
+REFERENCE            ZMUI_BGB_UNQUENCHABLE_CAPS
+LANG_ENGLISH         "UNQUENCHABLE"
+
+REFERENCE            ZMUI_BGB_UNQUENCHABLE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Auto-activates when you have maximum perks.\nCan buy an extra perk."
+
+REFERENCE            ZMUI_BGB_UNQUENCHABLE_FACTORY_CAPS
+LANG_ENGLISH         "UNQUENCHABLE"
+
+REFERENCE            ZMUI_BGB_UNQUENCHABLE_HINT
+LANG_ENGLISH         "Can buy an extra perk"
+
+REFERENCE            ZMUI_BGB_WALL_POWER
+LANG_ENGLISH         "Wall Power"
+
+REFERENCE            ZMUI_BGB_WALL_POWER_CAPS
+LANG_ENGLISH         "WALL POWER"
+
+REFERENCE            ZMUI_BGB_WALL_POWER_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Auto-activates on your next wall-buy gun purchase\nThe next gun bought off a wall comes Pack-a-Punched."
+
+REFERENCE            ZMUI_BGB_WALL_POWER_FACTORY_CAPS
+LANG_ENGLISH         "WALL POWER"
+
+REFERENCE            ZMUI_BGB_WALL_POWER_HINT
+LANG_ENGLISH         "Auto-activates on next gun wall-buy\nNext wall-buy gun is Pack-a-Punched"
+
+REFERENCE            ZMUI_BGB_WHOS_KEEPING_SCORE
+LANG_ENGLISH         "Who's Keeping Score?"
+
+REFERENCE            ZMUI_BGB_WHOS_KEEPING_SCORE_CAPS
+LANG_ENGLISH         "WHO'S KEEPING SCORE?"
+
+REFERENCE            ZMUI_BGB_WHOS_KEEPING_SCORE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (2x Activations)\nSpawns a double points power up."
+
+REFERENCE            ZMUI_BGB_WHOS_KEEPING_SCORE_FACTORY_CAPS
+LANG_ENGLISH         "WHO'S KEEPING SCORE?"
+
+REFERENCE            ZMUI_BGB_WHOS_KEEPING_SCORE_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nSpawns a double points power up"
+
+ENDMARKER

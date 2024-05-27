@@ -1,0 +1,109 @@
+>mode,zm
+>type,common
+
+#include "zm_mod.class"
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+rawfile,dummy.cfg
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+scriptparsetree,scripts/Sphynx/_zm_commands.gsc
+scriptparsetree,scripts/Sphynx/_zm_commands.csc
+scriptparsetree,scripts/Sphynx/_zm_name_checker.gsc
+
+scriptparsetree,scripts/zm/_zm_cheat.gsc
+
+scriptparsetree,scripts/zm/_zm_laststand.gsc
+scriptparsetree,scripts/zm/_zm_laststand.csc
+
+scriptparsetree,scripts/zm/_zm_bgb.gsc
+scriptparsetree,scripts/zm/_zm_bgb.csc
+scriptparsetree,scripts/zm/_zm_spawner.gsc
+
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_impatient.gsc //狙击奖励
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_impatient.csc 	
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_arms_grace.gsc //sniper deadeye
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_arms_grace.csc 
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_always_done_swiftly.gsc //快速回血
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_always_done_swiftly.csc 
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_now_you_see_me.csc //爆裂接触
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_now_you_see_me.gsc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_arsenal_accelerator.gsc //击中僵尸更多金钱
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_arsenal_accelerator.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_armamental_accomplishment.gsc //人肉沙包
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_armamental_accomplishment.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_firing_on_all_cylinders.gsc  //生命之泉
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_firing_on_all_cylinders.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_alchemical_antithesis.gsc //换弹五秒内伤害增加
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_alchemical_antithesis.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_in_plain_sight.gsc //玩家金钱平分给其他玩家
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_in_plain_sight.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_stock_option.gsc //爆头秒杀
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_stock_option.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_coagulant.gsc //子弹双倍伤害
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_coagulant.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_danger_closest.gsc //手雷恢复
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_danger_closest.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_lucky_crit.gsc //残血击杀周围敌人
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_lucky_crit.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_newtonian_negation.gsc //弹匣子弹小于4增伤
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_newtonian_negation.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_eye_candy.gsc //爆头装弹
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_eye_candy.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_tone_death.gsc //击中敌人回血
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_tone_death.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_sword_flay.gsc //近战秒杀
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_sword_flay.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_projectile_vomiting.gsc //爆头伤害增加
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_projectile_vomiting.csc
+
+image,t7_hud_zm_bgb_aftertaste
+image,t7_hud_zm_bgb_alchemical_antithesis
+image,t7_hud_zm_bgb_always_done_swiftly
+image,t7_hud_zm_bgb_anywhere_but_here
+image,t7_hud_zm_bgb_armamental_accomplishment
+image,t7_hud_zm_bgb_arms_grace
+image,t7_hud_zm_bgb_arsenal_accelerator
+image,t7_hud_zm_bgb_board_games
+image,t7_hud_zm_bgb_burned_out
+image,t7_hud_zm_bgb_cache_back
+image,t7_hud_zm_bgb_coagulant
+image,t7_hud_zm_bgb_crate_power
+image,t7_hud_zm_bgb_danger_closest
+image,t7_hud_zm_bgb_dead_of_nuclear_winter
+image,t7_hud_zm_bgb_ephemeral_enhancement
+image,t7_hud_zm_bgb_eye_candy
+image,t7_hud_zm_bgb_firing_on_all_cylinders
+image,t7_hud_zm_bgb_flavor_hexed
+image,t7_hud_zm_bgb_idle_eyes
+image,t7_hud_zm_bgb_immolation_liquidation
+image,t7_hud_zm_bgb_impatient
+image,t7_hud_zm_bgb_in_plain_sight
+image,t7_hud_zm_bgb_kill_joy
+image,t7_hud_zm_bgb_licensed_contractor
+image,t7_hud_zm_bgb_lucky_crit
+image,t7_hud_zm_bgb_mind_blown
+image,t7_hud_zm_bgb_now_you_see_me
+image,t7_hud_zm_bgb_newtonian_negation
+image,t7_hud_zm_bgb_phoenix_up
+image,t7_hud_zm_bgb_pop_shocks
+image,t7_hud_zm_bgb_power_vacuum
+image,t7_hud_zm_bgb_projectile_vomiting
+image,t7_hud_zm_bgb_self_medication
+image,t7_hud_zm_bgb_shopping_free
+image,t7_hud_zm_bgb_stock_option
+image,t7_hud_zm_bgb_sword_flay
+image,t7_hud_zm_bgb_temporal_gift
+image,t7_hud_zm_bgb_tone_death
+image,t7_hud_zm_bgb_undead_man_walking
+image,t7_hud_zm_bgb_wall_power
+image,t7_hud_zm_bgb_whos_keeping_score
+
+image,t7_icon_rank_zm_level_01_lrg
+image,t7_icon_rank_zm_level_01
+
+stringtable,gamedata/tables/zm/zm_ranktable.csv
+
+//stringtable,gamedata/stats/zm/zm_paragonstatstable.csv
+
+localize,ABC
