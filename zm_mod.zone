@@ -7,18 +7,14 @@
 rawfile,dummy.cfg
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-scriptparsetree,scripts/Sphynx/_zm_commands.gsc
-scriptparsetree,scripts/Sphynx/_zm_commands.csc
-scriptparsetree,scripts/Sphynx/_zm_name_checker.gsc
-
+//发布版本删除或注释以下资产
 scriptparsetree,scripts/zm/_zm_cheat.gsc
-
-scriptparsetree,scripts/zm/_zm_laststand.gsc
-scriptparsetree,scripts/zm/_zm_laststand.csc
 
 scriptparsetree,scripts/zm/_zm_bgb.gsc
 scriptparsetree,scripts/zm/_zm_bgb.csc
 scriptparsetree,scripts/zm/_zm_spawner.gsc
+scriptparsetree,scripts/zm/_zm_playerhealth.gsc
+scriptparsetree,scripts/zm/_zm_playerhealth.csc
 
 scriptparsetree,scripts/zm/bgbs/_zm_bgb_impatient.gsc //狙击奖励
 scriptparsetree,scripts/zm/bgbs/_zm_bgb_impatient.csc 	
@@ -56,6 +52,14 @@ scriptparsetree,scripts/zm/bgbs/_zm_bgb_sword_flay.gsc //近战秒杀
 scriptparsetree,scripts/zm/bgbs/_zm_bgb_sword_flay.csc
 scriptparsetree,scripts/zm/bgbs/_zm_bgb_projectile_vomiting.gsc //爆头伤害增加
 scriptparsetree,scripts/zm/bgbs/_zm_bgb_projectile_vomiting.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_secret_shopper.gsc  //保证箱子出dingo
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_secret_shopper.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_killing_time.gsc  //队友没倒地无敌
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_killing_time.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_self_medication.gsc //倒地自起
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_self_medication.csc
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_im_feelin_lucky.gsc //击中你的僵尸变友军
+scriptparsetree,scripts/zm/bgbs/_zm_bgb_im_feelin_lucky.csc
 
 image,t7_hud_zm_bgb_aftertaste
 image,t7_hud_zm_bgb_alchemical_antithesis
@@ -76,10 +80,12 @@ image,t7_hud_zm_bgb_eye_candy
 image,t7_hud_zm_bgb_firing_on_all_cylinders
 image,t7_hud_zm_bgb_flavor_hexed
 image,t7_hud_zm_bgb_idle_eyes
+image,t7_hud_zm_bgb_im_feelin_lucky
 image,t7_hud_zm_bgb_immolation_liquidation
 image,t7_hud_zm_bgb_impatient
 image,t7_hud_zm_bgb_in_plain_sight
 image,t7_hud_zm_bgb_kill_joy
+image,t7_hud_zm_bgb_killing_time
 image,t7_hud_zm_bgb_licensed_contractor
 image,t7_hud_zm_bgb_lucky_crit
 image,t7_hud_zm_bgb_mind_blown
@@ -98,12 +104,5 @@ image,t7_hud_zm_bgb_tone_death
 image,t7_hud_zm_bgb_undead_man_walking
 image,t7_hud_zm_bgb_wall_power
 image,t7_hud_zm_bgb_whos_keeping_score
-
-image,t7_icon_rank_zm_level_01_lrg
-image,t7_icon_rank_zm_level_01
-
-stringtable,gamedata/tables/zm/zm_ranktable.csv
-
-//stringtable,gamedata/stats/zm/zm_paragonstatstable.csv
 
 localize,ABC
